@@ -1,0 +1,23 @@
+{
+	"short_name": "Poncho",
+	"name": "Free Poncho",
+	"description": "Play classic Poncho. No fuss. 100% free.",
+	"icons": [
+		{
+			"src": "resoureces/images/poncho-game-icon-192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "resoureces/images/poncho-game-icon-512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/?utm_source=pwa",
+	"scope": "/",
+	"background_color": "#000000",
+	"theme_color": "#000000",
+	"display": "fullscreen",
+	"orientation": "portrait"
+}
